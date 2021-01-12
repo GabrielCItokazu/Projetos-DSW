@@ -1,1 +1,1 @@
-Repositório com os projetos apresentados na disciplina Desenvolvimento de Software para Web I - UFSCar - São Carlos
+Repositório com os projetos apresentados na disciplina Desenvolvimento de Software para Web I
