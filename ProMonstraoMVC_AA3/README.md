@@ -1,6 +1,6 @@
 # ProMonstraoMVC
 
-Implementação do projeto ProMonstrao usando Spring MVC
+Implementação do projeto ProMonstrao usando Spring MVC com Rest API
 
 ## Instruções
 
