@@ -4,12 +4,12 @@ Implementação do projeto ProMonstrao usando Spring MVC
 
 ## Instruções
 
-1. Executar o script `db/MySQL/create.sql`, para inicializar a base de dados MySQL.
+1. Executar o comando `mvn compile`, para compilar os arquivos.
 
 2. Executar o comando `mvn spring-boot:run`. O sistema estará rodando em http://localhost:8080.
 
-4. Na tela de login exite 3 tipos de usuarios: Admin, Teatro e Site <br>
-- Segue alguns logins que estao no banco que voce pode utilizar:
+3. Na tela de login exite 3 tipos de usuarios: Admin, Teatro e Site <br>
+- Segue alguns logins que estao no banco que você pode utilizar:
 
 ```
 admin@email.com
@@ -18,7 +18,7 @@ senha
 website1@email.com
 senha
 
-website2@email.com
+theater@email.com
 senha
 ```
 
