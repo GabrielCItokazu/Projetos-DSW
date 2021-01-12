@@ -8,7 +8,7 @@ Implementação do projeto ProMonstrao usando Spring MVC
 
 2. Executar o comando `mvn spring-boot:run`. O sistema estará rodando em http://localhost:8080.
 
-3. Na tela de login exite 3 tipos de usuarios: Admin, Teatro e Site <br>
+3. Na tela de login exitem 3 tipos de usuarios: Admin, Teatro e Site <br>
 - Segue alguns logins que estao no banco que você pode utilizar:
 
 ```
